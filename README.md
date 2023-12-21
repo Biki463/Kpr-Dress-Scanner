@@ -1,0 +1,2 @@
+# Kpr-Dress-Scanner
+ this project brings together the power of Teachable Machine, React Native development, and advanced cloth detection algorithms to create a smart and intuitive mobile application. Users can rely on the app for accurate and real-time identification of various clothing items, with a specialized focus on detecting KPR T-shirts. The fusion of cutting-edge technologies results in a user-friendly, versatile, and highly functional cloth detection app
