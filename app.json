@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "scanner-App",
+    "slug": "scanner-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
